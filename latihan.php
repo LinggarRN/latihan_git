@@ -1,5 +1,5 @@
 <?php 
-echo "<h1> created by : LinggarRN <h1>";
+echo "<h1> created by : LinggarRN </h1>";
 echo "Data Diri.. <br>";
 echo "Nama Lengkap : Linggar Rama Nanda <br>";
 echo "Alamat : Kenteng, Ngadirojo, Wonogiri <br>";
